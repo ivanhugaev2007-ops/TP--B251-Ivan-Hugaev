@@ -54,3 +54,14 @@ add solution for task1
 
 
 add report file
+
+2026-10-25
+
+
+add folder topic_05
+
+
+add solution for task1,task2 and task3(functions.py, operations.py, calc.py)
+
+
+add report file
