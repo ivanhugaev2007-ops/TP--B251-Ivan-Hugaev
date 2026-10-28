@@ -65,3 +65,14 @@ add solution for task1,task2 and task3(functions.py, operations.py, calc.py)
 
 
 add report file
+
+2026-10-28
+
+
+add folder lab_02
+
+
+add solution for lab_02
+
+
+add report file
