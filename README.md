@@ -3,7 +3,7 @@
 2026-09-12
 
 
-add folder topic\_01
+add folder topic_01
 
 
 add solution for task1, task2 and task3
@@ -73,6 +73,17 @@ add folder lab_02
 
 
 add solution for lab_02
+
+
+add report file
+
+2026-11-11
+
+
+add folder topic_06
+
+
+add solution for task1 and task2 
 
 
 add report file
